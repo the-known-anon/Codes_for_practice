@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-  #check if both the strings are permutations using hashtable
+  /* check if both the strings are permutations using hashtable */
 	string s1 = "damnsongefui";
 	string s2 = "damnsongefui";
 	vector<int> a[126];
